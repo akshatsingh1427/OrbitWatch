@@ -471,13 +471,22 @@ The export covers the full in-memory telemetry ring buffer — no server call, n
 
 <div align="center">
 
-**Akshat Singh**
+### Akshat Singh
+
+Frontend Developer • AI/ML Enthusiast • Data Science • Full Stack Developer
+
+<br>
 
 <a href="https://github.com/akshatsingh1427" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-akshatsingh1427-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
+
 <a href="https://www.linkedin.com/in/akshat-singh-ba248b394/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="./LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="MIT License">
 </a>
 
 </div>
@@ -486,6 +495,10 @@ The export covers the full in-memory telemetry ring buffer — no server call, n
 
 <div align="center">
 
-**Built to look like mission control, behave like a production dashboard.**
+### ⭐ If you found this project useful, consider giving it a star!
+
+Built with ❤️ using **React**, **TypeScript**, **Three.js**, and **Tailwind CSS**
+
+**🚀 Built to look like mission control, behave like a production dashboard.**
 
 </div>
