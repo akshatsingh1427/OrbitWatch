@@ -14,18 +14,6 @@
   <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge" alt="Live Demo">
 </a>
 
-<a href="https://github.com/akshatsingh1427/OrbitWatch" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-</a>
-
-<a href="https://github.com/akshatsingh1427" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-akshatsingh1427-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
-
-<a href="https://www.linkedin.com/in/akshat-singh-ba248b394/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white">
