@@ -473,8 +473,7 @@ The export covers the full in-memory telemetry ring buffer — no server call, n
 
 ### Akshat Singh
 
-Frontend Developer • AI/ML Enthusiast • Data Science • Full Stack Developer
-
+Computer Science Engineering Student • AI • Generative AI • MLOps • Cloud-Native • Kubernetes • Computer Vision • Full-Stack Developer
 <br>
 
 <a href="https://github.com/akshatsingh1427" target="_blank">
