@@ -442,13 +442,13 @@ The export covers the full in-memory telemetry ring buffer — no server call, n
 
 <div align="center">
 
-**Your Name**
+**Akshat Singh**
 
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/[GitHub-000000](https://github.com/akshatsingh1427)?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/akshatsingh1427" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-akshatsingh1427-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/[LinkedIn-0A66C2](https://www.linkedin.com/in/akshat-singh-ba248b394/)?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/akshat-singh-ba248b394/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
