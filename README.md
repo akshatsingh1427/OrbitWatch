@@ -1,14 +1,32 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="ORBITAL Banner" width="100%">
+<img src="assets/banner.png" alt="OrbitWatch Banner" width="100%">
 
 # 🛰️ OrbitWatch
 
 ### Orbital Space Mission Control Dashboard
 
-**React Three Fiber 3D · Real-time telemetry · Ground track · Full observability UI · Zero backend**
+**React Three Fiber 3D · Real-time Telemetry · Ground Track · Mission Analytics · Zero Backend**
 
 <br>
+
+<a href="https://orbit-watch-two.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge" alt="Live Demo">
+</a>
+
+<a href="https://github.com/akshatsingh1427/OrbitWatch" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+</a>
+
+<a href="https://github.com/akshatsingh1427" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-akshatsingh1427-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
+
+<a href="https://www.linkedin.com/in/akshat-singh-ba248b394/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -20,7 +38,7 @@
 <img src="https://img.shields.io/badge/Three.js-3D%20Orbital%20View-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Framer%20Motion-Animations-EF0074?style=for-the-badge&logo=framer&logoColor=white">
 <img src="https://img.shields.io/badge/Zustand-State%20Management-433E38?style=for-the-badge">
-<img src="https://img.shields.io/badge/Recharts-Data%20Viz-22B5BF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Recharts-Data%20Visualization-22B5BF?style=for-the-badge">
 
 <br>
 
@@ -36,7 +54,14 @@
 
 <br><br>
 
-[**Overview**](#-overview) · [**Features**](#-features) · [**Architecture**](#️-architecture) · [**Tech Stack**](#️-tech-stack) · [**Quick Start**](#-quick-start) · [**Screens**](#-screenshots) · [**Roadmap**](#-roadmap)
+[**🌍 Live Demo**](https://orbit-watch-two.vercel.app/) •
+[**📖 Overview**](#-overview) •
+[**✨ Features**](#-features) •
+[**🏗️ Architecture**](#️-architecture) •
+[**🛠️ Tech Stack**](#️-tech-stack) •
+[**🚀 Quick Start**](#-quick-start) •
+[**📸 Screenshots**](#-screenshots) •
+[**🗺️ Roadmap**](#-roadmap)
 
 </div>
 
